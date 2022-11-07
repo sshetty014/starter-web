@@ -10,5 +10,5 @@ This example is to show different parts of the Git repository and various comman
 As stated above, the main purpose is to provide simple examples for git training demos .
 
 ## Deployement
-
+Testing the merge example.
 ## How to contribute.
