@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project to see how Git and Github work together
+This is a simple website project to see how Git and Github work together. This is to check rebasing example.
 ## Introduction
 
 This example is to show different parts of the Git repository and various commands using web project.
