@@ -7,7 +7,11 @@
 
 # THANKS
 
+<<<<<<< HEAD
     To all the students in the class
+=======
+    To all the students from VBSV
+>>>>>>> Adding text to humans.txt file for rebase example
 
 # TECHNOLOGY COLOPHON
 
