@@ -6,7 +6,7 @@
   Sushmitha sshetty@gmail.com   @shetty014
 
 # THANKS
-
+		To check stash eg.
 <<<<<<< HEAD
     To all the students in the class
 =======
